@@ -1,2 +1,2 @@
-# atividade-aula-logica-de-programa-o
+# atividade-aula-logica-de-programacao
 atividade on-line 2
